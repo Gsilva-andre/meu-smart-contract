@@ -1,0 +1,32 @@
+# Ignora arquivos e pastas do sistema
+.DS_Store
+Thumbs.db
+
+# Ignora arquivos do Remix (se exportar .zip ou workspaces)
+*.zip
+default_workspace*
+
+# Ignora arquivos do sistema operacional
+*.log
+*.tmp
+
+# Node.js (caso use Truffle ou Hardhat futuramente)
+node_modules/
+.env
+dist/
+build/
+artifacts/
+cache/
+
+# VS Code configs
+.vscode/
+
+# Solidity coverage outputs
+coverage/
+coverage.json
+
+# Outras IDEs
+.idea/
+
+# Arquivos do sistema Git
+.git/
