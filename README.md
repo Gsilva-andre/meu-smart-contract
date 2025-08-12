@@ -37,7 +37,7 @@ Estou em transição de carreira para a área de tecnologia, com foco em blockch
 
 Se você gostou do meu trabalho ou deseja contratar um desenvolvedor Solidity para projetos freelance, entre em contato:
 
-- GitHub: [Deco-cmd](https://github.com/Deco-cmd)
-- Email: andrelk1387@gmail.com
+- GitHub: [Gsilva-andre](https://github.com/Gsilva-andre)
+- Email: andre.silva483@fatec.sp.gov.br  andrelk1387@gmail.com
 
 
